@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1593612721 source:c:\users\sabrina\desktop\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593607245 c:\users\sabrina\desktop\parcial 2\linkedlist.h
+
+1593615078 source:c:\users\sabrina\desktop\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"time.h"
+	"LinkedList.h"
+
+1593614305 c:\users\sabrina\desktop\parcial 2\paises.h
+	"LinkedList.h"
+
+1593614305 source:c:\users\sabrina\desktop\parcial 2\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"LinkedList.h"
+
